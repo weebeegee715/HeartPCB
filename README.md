@@ -1,7 +1,7 @@
 # HeartPCB
 My heart PCB for the sleepover challenge! It did not take long to make, only a few hours. It uses it's baterry to blink the LEDS.
 <img width="704" height="593" alt="Screenshot 2026-03-26 at 11 35 43 AM" src="https://github.com/user-attachments/assets/768bcb89-69d9-4f8c-9f1b-eefe875b38c8" />
-This is the heart PCB! It uses:
+<br> This is the heart PCB! It uses:
 - x16 Red LEDs
 - x1 555 Timer IC
 - x1 10 μF Capacitor
